@@ -12,7 +12,7 @@
     <ApplicationTitle>PKForge</ApplicationTitle>
     <ApplicationVersion>310</ApplicationVersion>
     <ApplicationDisplayVersion>3.1.0</ApplicationDisplayVersion>
-    <RuntimeIdentifiers>android-arm64</RuntimeIdentifiers>
+    <RuntimeIdentifiers>android-arm</RuntimeIdentifiers>
   </PropertyGroup>
   <PropertyGroup Condition="'$(DiagnosticBuild)' == 'true'">
     <!-- Diagnostic builds install beside production and cannot overwrite its app-private data. -->
